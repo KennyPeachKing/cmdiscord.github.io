@@ -1,15 +1,11 @@
 ---
 layout: page
-title: About
+title: About us
 permalink: /about/
 ---
 
-Some information about you!
+Code Monkeys is a discord server dedicated to giving and receiving great help and advice for a variety of programming languages. Help us build a large and friendly community!
 
-### More Information
+Programmers and hobbyists with all technical interests and skill levels accepted. Join our growing community to learn and share your knowledge with others.
 
-A place to include any other types of information that you'd like to include about yourself.
-
-### Contact me
-
-[email@domain.com](mailto:email@domain.com)
+We strive to provide a friendly and helpful community to people on the internet, every day. The more people we have, the more collective knowledge we have to share with each other!
